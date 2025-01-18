@@ -127,8 +127,3 @@ Input:
 
 Output:  
 - Safe sequence found or request denied with explanation.
-
----
-
-## Acknowledgments
-This project was developed with contributions from Mohammad Derakhshan (https://github.com/Mu-Derakhshan), who collaborated on multiple aspects, including resource management and deadlock detection.  
